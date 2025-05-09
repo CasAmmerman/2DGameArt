@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Steampunk-Moon_0: -5992893588506447300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

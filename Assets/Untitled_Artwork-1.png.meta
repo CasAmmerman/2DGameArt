@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ee955a91cd5aa0848b1c569b858e282c
+guid: 222d2f2838ee6d248bc75533660fcdb8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8179492816914754520
-    second: Steampunk_Background_-1_0
+      213: -3739957133524300147
+    second: Untitled_Artwork-1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Steampunk_Background_-1_0
+      name: Untitled_Artwork-1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 71
-        width: 1920
-        height: 1009
+        x: 104
+        y: 33
+        width: 283
+        height: 472
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8db20135165638170800000000000000
-      internalID: 8179492816914754520
+      spriteID: d8e881d5dc0091cc0800000000000000
+      internalID: -3739957133524300147
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Steampunk_Background_-1_0: 8179492816914754520
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
